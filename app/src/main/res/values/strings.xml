@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Permission</string>
+    <string name="send_sample_sms">Send Sample SMS</string>
+    <string name="location">Location</string>
+    <string name="run_gps">Run Gps</string>
+    <string name="sample_sms">Sample SMS</string>
+    <string name="phone">Phone</string>
+</resources>
